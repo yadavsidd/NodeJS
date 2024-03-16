@@ -5,7 +5,7 @@ const person = {
 
     //Function
     greet ( )  {
-     console.log("HI MY NAME IS "+ this.Name);   
+     console.log("HI MY NAME IS nothings"+ this.Name);   
     }
 };
 person.greet();
